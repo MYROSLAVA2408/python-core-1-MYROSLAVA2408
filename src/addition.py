@@ -1,3 +1,4 @@
 def addition(param1, param2):
-  # Type your code
+  a=1
+
   return
