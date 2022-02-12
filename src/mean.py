@@ -1,3 +1,3 @@
 def mean(number):
   # Type your code
-  return 
+  return mean
