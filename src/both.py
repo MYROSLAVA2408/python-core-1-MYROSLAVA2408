@@ -11,4 +11,4 @@ def both(number1, number2):
 
 print(both(3,0))
 print(both(0,0))
-print(both(3,7))
+print(both(3,6))
