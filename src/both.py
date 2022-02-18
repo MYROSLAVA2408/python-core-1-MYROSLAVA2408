@@ -9,7 +9,6 @@ def both(number1, number2):
     result = 'False'
   return result
 
-
 print(both(6,2))
 print(both(0,0))
 print(both(-1,2))
